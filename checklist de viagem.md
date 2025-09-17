@@ -1,15 +1,15 @@
 # Checklist de Viagem - ViajaBem
 
 ## Documentos Essenciais
--[ ] Passaporte/Visto
--[x]Cartão de vacinação
--[ ]Seguro viagem
--[ ]Reservas de hospedagem
+- [ ] Passaporte/Visto
+- [x] Cartão de vacinação
+- [ ] Seguro viagem
+- [ ] Reservas de hospedagem
 
 ## Saúde e Medicamentos
--[ ]Medicamentos pessoais
--[x]Kit primeiros socorros
--[ ]Protetor solar
+- [ ] Medicamentos pessoais
+- [x] Kit primeiros socorros
+- [ ] Protetor solar
 
 ## Vestuário
 - [ ] Roupas por clima
@@ -24,10 +24,10 @@
 - [ ] Cabos USB
 
 ## Verificações Finais
-[ ] Notificar banco sobre viagem
-[ ] Baixar mapas offline 
-[ ] Checar check-in online 
-[ ] Checar previsão do tempo
+- [ ] Notificar banco sobre viagem
+- [ ] Baixar mapas offline 
+- [ ] Checar check-in online 
+- [ ] Checar previsão do tempo
 
-# TUDO PRONTO!
-Essa mensagem é ótima viagem!
+## TUDO PRONTO!
+**Essa mensagem é: ótima viagem!** 🌍✈️🧳
