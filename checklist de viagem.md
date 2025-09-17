@@ -1,19 +1,19 @@
 # Checklist de Viagem - ViajaBem
 
 ## Documentos Essenciais
-- Passaporte/Visto
-- Cartão de vacinação
-- Seguro viagem
-- Reservas de hospedagem
+-[ ] Passaporte/Visto
+-[x]Cartão de vacinação
+-[ ]Seguro viagem
+-[ ]Reservas de hospedagem
 
 ## Saúde e Medicamentos
-- Medicamentos pessoais
-- Itens primeiros socorros
-- Protetor solar
+-[ ]Medicamentos pessoais
+-[x]Kit primeiros socorros
+-[ ]Protetor solar
 
 ## Vestuário
 - [ ] Roupas por clima
-- [ ] Calçados confortáveis
+- [x] Calçados confortáveis
 - [ ] Roupas de dormir
 - [ ] Acessórios (óculos, chapéu)
 
